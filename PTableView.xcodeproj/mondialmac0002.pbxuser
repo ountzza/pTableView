@@ -1,0 +1,90 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PTableView */ = {
+		activeExec = 0;
+		executables = (
+			E690557F13211F07006C56AE /* PTableView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PTableViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 532}}";
+			sepNavSelRange = "{219, 16}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E690557F13211F07006C56AE /* PTableView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PTableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PTableView */,
+		);
+		codeSenseManager = E690558A13211F27006C56AE /* Code sense */;
+		executables = (
+			E690557F13211F07006C56AE /* PTableView */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 320937735;
+			PBXWorkspaceStateSaveDate = 320937735;
+		};
+		sourceControlManager = E690558913211F27006C56AE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E690557F13211F07006C56AE /* PTableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PTableView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E690558413211F26006C56AE /* PTableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 532}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{0, 328}";
+		};
+	};
+	E690558513211F26006C56AE /* PTableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 976}}";
+			sepNavSelRange = "{1480, 0}";
+			sepNavVisRange = "{0, 948}";
+		};
+	};
+	E690558913211F27006C56AE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E690558A13211F27006C56AE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
